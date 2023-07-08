@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ssd1306_oled/Core/Inc/bitmap.h&apos; to &apos;fsociety_bitmap.h&apos;" description="Rename resource &apos;bitmap.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/bitmap.h" name="fsociety_bitmap.h" stamp="1687297968543" updateReferences="true"/>
+</session>

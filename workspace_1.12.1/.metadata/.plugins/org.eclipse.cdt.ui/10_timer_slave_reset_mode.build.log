@@ -1,0 +1,16 @@
+00:19:52 **** Incremental Build of configuration Debug for project 10_timer_slave_reset_mode ****
+make -j12 all 
+arm-none-eabi-gcc -o "10_timer_slave_reset_mode.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="10_timer_slave_reset_mode.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 10_timer_slave_reset_mode.elf
+ 
+arm-none-eabi-size   10_timer_slave_reset_mode.elf 
+arm-none-eabi-objdump -h -S  10_timer_slave_reset_mode.elf  > "10_timer_slave_reset_mode.list"
+   text	   data	    bss	    dec	    hex	filename
+   8380	     20	   1644	  10044	   273c	10_timer_slave_reset_mode.elf
+Finished building: default.size.stdout
+ 
+Finished building: 10_timer_slave_reset_mode.list
+ 
+
+00:19:52 Build Finished. 0 errors, 0 warnings. (took 616ms)
+

@@ -1,0 +1,3 @@
+../Core/Src/esp8266.c:10:6:esp8266_send_command	16	static
+../Core/Src/esp8266.c:16:6:esp8266_receive_response	16	static
+../Core/Src/esp8266.c:22:6:esp8266_connect_to_wifi	144	static

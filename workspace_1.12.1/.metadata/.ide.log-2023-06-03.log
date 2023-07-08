@@ -1,0 +1,475 @@
+2023-06-03 00:00:03,310 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-03 00:00:07,161 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-03 00:01:05,614 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 257212008 Bytes (744488960)
+2023-06-03 00:01:07,504 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 391956072 Bytes (744488960)
+2023-06-03 00:01:08,368 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-06-03 00:01:08,369 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-06-03 00:01:08,370 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-06-03 00:01:08,370 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-06-03 00:01:08,370 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-06-03 00:01:08,372 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-06-03 00:01:08,375 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-06-03 00:01:08,592 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\license.tmp_save
+2023-06-03 00:01:08,683 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\license.tmp
+2023-06-03 00:01:08,705 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\gpio.tmp_save
+2023-06-03 00:01:08,789 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\gpio.tmp
+2023-06-03 00:01:08,897 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\dma.tmp_save
+2023-06-03 00:01:08,972 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\dma.tmp
+2023-06-03 00:01:08,983 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\dma_GV.tmp_save
+2023-06-03 00:01:09,054 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\dma_GV.tmp
+2023-06-03 00:01:09,071 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\stm32f4xx_it.c_save
+2023-06-03 00:01:09,182 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\stm32f4xx_it.c
+2023-06-03 00:01:09,192 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\stm32f4xx_it.h_save
+2023-06-03 00:01:09,290 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\stm32f4xx_it.h
+2023-06-03 00:01:09,334 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\stm32f4xx_hal_msp.c_save
+2023-06-03 00:01:09,620 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\stm32f4xx_hal_msp.c
+2023-06-03 00:01:09,626 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\system.tmp_save
+2023-06-03 00:01:09,687 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\system.tmp
+2023-06-03 00:01:09,703 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-06-03 00:01:09,774 [INFO] CodeEngine:335 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\stm32f4xx_hal_conf.h
+2023-06-03 00:01:09,805 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\main.h_save
+2023-06-03 00:01:09,865 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\main.h
+2023-06-03 00:01:09,870 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\main.c_save
+2023-06-03 00:01:09,959 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\main.c
+2023-06-03 00:01:10,545 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 153mS.
+2023-06-03 00:01:10,549 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-06-03 00:01:10,942 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-06-03 00:01:13,205 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2656mS.
+2023-06-03 00:01:13,206 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-06-03 00:01:13,212 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-06-03 00:06:35,549 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,549 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,550 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,550 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,550 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,550 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,550 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,550 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,551 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,552 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,575 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,575 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,576 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,576 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,576 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,577 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,577 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,577 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,577 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,577 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,577 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,577 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,578 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,579 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,579 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,579 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,579 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,579 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,579 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,579 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,603 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,603 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,604 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,604 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,604 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,605 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,606 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,629 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,630 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,630 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,630 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,630 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,631 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,631 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,631 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,631 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,632 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,633 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,633 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,633 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,633 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,657 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,657 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,657 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,657 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,657 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,658 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,658 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,658 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,658 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,658 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,658 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,658 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,659 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,660 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,660 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,660 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,660 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,661 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,661 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,661 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,661 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,661 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,683 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,684 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,684 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,685 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,685 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,685 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,685 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,686 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,687 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,687 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,687 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,710 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,710 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,710 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,711 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,711 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,737 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,738 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,738 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,738 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,738 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,740 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,741 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,741 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,741 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,741 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,741 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,741 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,741 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,741 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,741 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,741 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,764 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,764 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,764 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,765 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,765 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,765 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,765 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,765 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,765 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,765 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,765 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,766 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,789 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,789 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,789 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,789 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,789 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,790 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,791 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:06:35,810 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,811 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:06:35,811 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,672 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-03 00:07:31,710 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,710 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:31,732 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,732 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-03 00:07:31,732 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-03 00:07:43,368 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 625673488 Bytes (775946240)
+2023-06-03 00:07:43,860 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 313825616 Bytes (775946240)
+2023-06-03 00:07:44,440 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-06-03 00:07:44,440 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-06-03 00:07:44,440 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-06-03 00:07:44,440 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-06-03 00:07:44,440 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-06-03 00:07:44,440 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-06-03 00:07:44,443 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-06-03 00:07:44,459 [INFO] Argument:319 - Argument : hdmavalue: null
+2023-06-03 00:07:44,459 [INFO] Argument:321 - 	 sub Args: 
+2023-06-03 00:07:44,459 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream0
+2023-06-03 00:07:44,459 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream0
+2023-06-03 00:07:44,459 [INFO] Argument:319 - Argument : Initvalue: null
+2023-06-03 00:07:44,459 [INFO] Argument:321 - 	 sub Args: 
+2023-06-03 00:07:44,459 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_0
+2023-06-03 00:07:44,459 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_0
+2023-06-03 00:07:44,459 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-06-03 00:07:44,459 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-06-03 00:07:44,459 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-06-03 00:07:44,459 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-06-03 00:07:44,459 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-06-03 00:07:44,459 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-06-03 00:07:44,459 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_HALFWORD
+2023-06-03 00:07:44,459 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_HALFWORD
+2023-06-03 00:07:44,459 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_HALFWORD
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_HALFWORD
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : Modevalue: DMA_CIRCULAR
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : Modevalue: DMA_CIRCULAR
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_VERY_HIGH
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_VERY_HIGH
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : Lockvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : Lockvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : Statevalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : Statevalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : Parentvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : Parentvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2023-06-03 00:07:44,460 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2023-06-03 00:07:44,461 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2023-06-03 00:07:44,461 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2023-06-03 00:07:44,627 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\license.tmp_save
+2023-06-03 00:07:44,673 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\license.tmp
+2023-06-03 00:07:44,683 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\gpio.tmp_save
+2023-06-03 00:07:44,731 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\gpio.tmp
+2023-06-03 00:07:44,763 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\dma.tmp_save
+2023-06-03 00:07:44,809 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\dma.tmp
+2023-06-03 00:07:44,812 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\dma_GV.tmp_save
+2023-06-03 00:07:44,853 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\dma_GV.tmp
+2023-06-03 00:07:44,860 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\stm32f4xx_it.c_save
+2023-06-03 00:07:44,911 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\stm32f4xx_it.c
+2023-06-03 00:07:44,915 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\stm32f4xx_it.h_save
+2023-06-03 00:07:44,956 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\stm32f4xx_it.h
+2023-06-03 00:07:44,963 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\stm32f4xx_hal_msp.c_save
+2023-06-03 00:07:45,026 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\stm32f4xx_hal_msp.c
+2023-06-03 00:07:45,030 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\system.tmp_save
+2023-06-03 00:07:45,071 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\MXTmpFiles\system.tmp
+2023-06-03 00:07:45,077 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-06-03 00:07:45,124 [INFO] CodeEngine:335 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\stm32f4xx_hal_conf.h
+2023-06-03 00:07:45,146 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\main.h_save
+2023-06-03 00:07:45,193 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Inc\main.h
+2023-06-03 00:07:45,213 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\main.c_save
+2023-06-03 00:07:45,375 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\20_adc_with_dma\Core\Src\main.c
+2023-06-03 00:07:46,104 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 168mS.
+2023-06-03 00:07:46,107 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-06-03 00:07:46,297 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-06-03 00:07:48,266 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2159mS.
+2023-06-03 00:07:48,267 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-06-03 00:07:48,270 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

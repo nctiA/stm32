@@ -1,0 +1,77 @@
+#include "UartRingbuffer.h"
+#include <string.h>
+
+extern UART_HandleTypeDef huart1; // UART handle
+
+ring_buffer rx_buffer;
+ring_buffer tx_buffer;
+
+void store_char(unsigned char c, ring_buffer *buffer);
+
+void Ringbuf_init(void)
+{
+  rx_buffer.head = 0;
+  rx_buffer.tail = 0;
+  tx_buffer.head = 0;
+  tx_buffer.tail = 0;
+}
+
+void store_char(unsigned char c, ring_buffer *buffer)
+{
+  int i = (unsigned int)(buffer->head + 1) % UART_BUFFER_SIZE;
+
+  if (i != buffer->tail)
+  {
+    buffer->buffer[buffer->head] = c;
+    buffer->head = i;
+  }
+}
+
+int Uart_read(void)
+{
+  if (rx_buffer.head == rx_buffer.tail)
+  {
+    return -1;
+  }
+  else
+  {
+    unsigned char c = rx_buffer.buffer[rx_buffer.tail];
+    rx_buffer.tail = (unsigned int)(rx_buffer.tail + 1) % UART_BUFFER_SIZE;
+    return c;
+  }
+}
+
+void Uart_write(int c)
+{
+  if (c >= 0)
+  {
+    int i = (tx_buffer.head + Son olarak, `main.c` dosyasındaki `while` döngüsünü aşağıdaki gibi güncelleyin:
+
+```c
+while (1)
+{
+    // ADC okuma işlemi
+    HAL_ADC_Start(&hadc1);
+    HAL_ADC_PollForConversion(&hadc1, HAL_MAX_DELAY);
+    uint16_t adc_value = HAL_ADC_GetValue(&hadc1);
+    HAL_ADC_Stop(&hadc1);
+
+    // ADC değerini ESP01 üzerinden ThingSpeak'e gönderme
+    char http_request[128];
+    sprintf(http_request, "GET /update?api_key=%s&field1=%d\r\n", API_KEY, adc_value);
+    Uart_sendstring("AT+CIPMUX=0\r\n");
+    HAL_Delay(1000);
+    Uart_sendstring("AT+CIPSTART=\"TCP\",\"api.thingspeak.com\",80\r\n");
+    HAL_Delay(2000);
+    Uart_sendstring("AT+CIPSEND=");
+    Uart_printbase(strlen(http_request), 10);
+    Uart_sendstring("\r\n");
+    HAL_Delay(1000);
+    Uart_sendstring(http_request);
+    HAL_Delay(2000);
+    Uart_sendstring("AT+CIPCLOSE\r\n");
+    HAL_Delay(1000);
+
+    // 10 saniye bekleyin
+    HAL_Delay(10000);
+}

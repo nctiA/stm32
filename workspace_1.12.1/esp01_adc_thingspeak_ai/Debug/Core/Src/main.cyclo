@@ -1,0 +1,8 @@
+main.c:66:10:adc_read_value	1
+main.c:75:6:send_data_to_thingspeak	1
+main.c:104:5:main	1
+main.c:152:6:SystemClock_Config	3
+main.c:198:13:MX_ADC1_Init	3
+main.c:250:13:MX_USART1_UART_Init	2
+main.c:283:13:MX_GPIO_Init	1
+main.c:304:6:Error_Handler	1

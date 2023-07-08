@@ -1,0 +1,20 @@
+16:29:08 **** Incremental Build of configuration Debug for project STM32_lessons ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'HAL_GPIO_EXTI_Callback':
+../Core/Src/main.c:59:6: warning: type of 'GPIO_Pin' defaults to 'int' [-Wimplicit-int]
+   59 | void HAL_GPIO_EXTI_Callback( GPIO_Pin){
+      |      ^~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:59:6: error: argument 'GPIO_Pin' doesn't match prototype
+In file included from ../Core/Inc/stm32f4xx_hal_conf.h:279,
+                 from ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:29,
+                 from ../Core/Inc/main.h:30,
+                 from ../Core/Src/main.c:20:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h:239:6: error: prototype declaration
+  239 | void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin);
+      |      ^~~~~~~~~~~~~~~~~~~~~~
+make: *** [Core/Src/subdir.mk:34: Core/Src/main.o] Error 1
+"make -j12 all" terminated with exit code 2. Build might be incomplete.
+
+16:29:09 Build Failed. 3 errors, 1 warnings. (took 326ms)
+

@@ -1,0 +1,69 @@
+2023-05-19 00:19:22,908 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 359430672 Bytes (817889280)
+2023-05-19 00:19:23,194 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-05-19 00:19:23,195 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-05-19 00:19:23,195 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-05-19 00:19:23,195 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-05-19 00:19:23,195 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-05-19 00:19:23,196 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-05-19 00:19:23,348 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\license.tmp_save
+2023-05-19 00:19:23,403 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\license.tmp
+2023-05-19 00:19:23,414 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\gpio.tmp_save
+2023-05-19 00:19:23,463 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\gpio.tmp
+2023-05-19 00:19:23,502 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\stm32f4xx_it.c_save
+2023-05-19 00:19:23,608 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\stm32f4xx_it.c
+2023-05-19 00:19:23,613 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\stm32f4xx_it.h_save
+2023-05-19 00:19:23,658 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\stm32f4xx_it.h
+2023-05-19 00:19:23,667 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\stm32f4xx_hal_msp.c_save
+2023-05-19 00:19:23,741 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\stm32f4xx_hal_msp.c
+2023-05-19 00:19:23,744 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\system.tmp_save
+2023-05-19 00:19:23,787 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\system.tmp
+2023-05-19 00:19:23,794 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-05-19 00:19:23,845 [INFO] CodeEngine:335 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\stm32f4xx_hal_conf.h
+2023-05-19 00:19:23,857 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-05-19 00:19:23,858 [WARN] CodeGenerator:3754 - IP not found : null
+2023-05-19 00:19:23,864 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\main.h_save
+2023-05-19 00:19:23,919 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\main.h
+2023-05-19 00:19:23,924 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\main.c_save
+2023-05-19 00:19:24,002 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\main.c
+2023-05-19 00:19:24,844 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 274mS.
+2023-05-19 00:19:24,847 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-05-19 00:19:25,036 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-05-19 00:19:27,126 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2279mS.
+2023-05-19 00:19:27,127 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-05-19 00:19:27,131 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-05-19 00:20:51,956 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-05-19 00:22:24,189 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 466286616 Bytes (817889280)
+2023-05-19 00:22:24,255 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 487780376 Bytes (817889280)
+2023-05-19 00:22:24,372 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 511897624 Bytes (817889280)
+2023-05-19 00:22:24,718 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-05-19 00:22:24,718 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-05-19 00:22:24,718 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-05-19 00:22:24,718 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-05-19 00:22:24,718 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-05-19 00:22:24,719 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-05-19 00:22:24,880 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\license.tmp_save
+2023-05-19 00:22:24,927 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\license.tmp
+2023-05-19 00:22:24,937 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\gpio.tmp_save
+2023-05-19 00:22:24,996 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\gpio.tmp
+2023-05-19 00:22:25,033 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\stm32f4xx_it.c_save
+2023-05-19 00:22:25,083 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\stm32f4xx_it.c
+2023-05-19 00:22:25,088 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\stm32f4xx_it.h_save
+2023-05-19 00:22:25,134 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\stm32f4xx_it.h
+2023-05-19 00:22:25,141 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\stm32f4xx_hal_msp.c_save
+2023-05-19 00:22:25,204 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\stm32f4xx_hal_msp.c
+2023-05-19 00:22:25,209 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\system.tmp_save
+2023-05-19 00:22:25,252 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\MXTmpFiles\system.tmp
+2023-05-19 00:22:25,258 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-05-19 00:22:25,310 [INFO] CodeEngine:335 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\stm32f4xx_hal_conf.h
+2023-05-19 00:22:25,321 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-05-19 00:22:25,322 [WARN] CodeGenerator:3754 - IP not found : null
+2023-05-19 00:22:25,327 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\main.h_save
+2023-05-19 00:22:25,382 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Inc\main.h
+2023-05-19 00:22:25,386 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\main.c_save
+2023-05-19 00:22:25,456 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.12.1\10_timer_slave_reset_mode\Core\Src\main.c
+2023-05-19 00:22:26,015 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 123mS.
+2023-05-19 00:22:26,017 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-05-19 00:22:26,354 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-05-19 00:22:27,904 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1887mS.
+2023-05-19 00:22:27,905 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-05-19 00:22:27,908 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

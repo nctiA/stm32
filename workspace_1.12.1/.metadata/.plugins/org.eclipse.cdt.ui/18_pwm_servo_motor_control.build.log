@@ -1,0 +1,10 @@
+00:38:08 **** Incremental Build of configuration Debug for project 18_pwm_servo_motor_control ****
+make -j12 all 
+arm-none-eabi-size   18_pwm_servo_motor_control.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8716	     20	   1644	  10380	   288c	18_pwm_servo_motor_control.elf
+Finished building: default.size.stdout
+ 
+
+00:38:09 Build Finished. 0 errors, 0 warnings. (took 296ms)
+

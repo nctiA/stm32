@@ -1,0 +1,10 @@
+15:55:35 **** Incremental Build of configuration Debug for project esp01_adc_thingspeak_ai ****
+make -j12 all 
+arm-none-eabi-size   esp01_adc_thingspeak_ai.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13948	    120	   1856	  15924	   3e34	esp01_adc_thingspeak_ai.elf
+Finished building: default.size.stdout
+ 
+
+15:55:35 Build Finished. 0 errors, 0 warnings. (took 403ms)
+

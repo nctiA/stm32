@@ -1,0 +1,10 @@
+16:28:49 **** Incremental Build of configuration Debug for project 13_timer_slave_trigger_mode_internal ****
+make -j12 all 
+arm-none-eabi-size   13_timer_slave_trigger_mode_internal.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9372	     20	   1716	  11108	   2b64	13_timer_slave_trigger_mode_internal.elf
+Finished building: default.size.stdout
+ 
+
+16:28:49 Build Finished. 0 errors, 0 warnings. (took 294ms)
+
